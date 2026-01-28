@@ -3,7 +3,7 @@ class StandupCli < Formula
 
   desc "Daily Standup Auto-Generator from git commits"
   homepage "https://github.com/prayagtushar/standup-cli"
-  url "https://files.pythonhosted.org/packages/source/s/standup-cli/standup-cli-0.1.0.tar.gz"
+  url "https://files.pythonhosted.org/packages/source/s/standup-cli/standup_cli-0.1.0.tar.gz"
   sha256 "a6a7699ec25192c85df03486638ceee3f89a78eccf93d6b00c1940f12000062f"
   license "MIT"
 
